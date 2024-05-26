@@ -25,7 +25,7 @@
 
 |    전규훈    | 김민욱 | 강성권 |    김혁일    |   최시원    | 박미성 |
 | :----------: | :----: | :----: | :----------: | :---------: | :----: |
-| Iot (Leader) | Front  | Front  | Back, Server | Back,Server |   AI   |
+| Iot, AI (Leader) | Front  | Front  | Back, Server | Back,Server |   AI   |
 
 <br>
 <br>
