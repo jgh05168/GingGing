@@ -195,7 +195,9 @@
 
 - MCU : ESP32-CAM
 
-![회로도](images/circuit.png)
+| ![깅스틱](images/gingstick.png) | ![회로도](images/circuit.png) |
+| :-----------------------------------: | :-----------------------------------: |
+|              깅스틱(GingStick)              |              회로도              |
 
 #### 6. 협업툴
 
