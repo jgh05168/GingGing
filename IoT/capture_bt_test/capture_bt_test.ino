@@ -140,7 +140,8 @@ void setup() {
 
   // BLE setup //
   BLEDevice::init(device_name.c_str());  // 장치명
-
+  BLEDevice::setMTU(512);	// MTU 크기 설정
+	
   pServer = BLEDevice::createServer();            // 서버생성
   pServer->setCallbacks(new MyServerCallbacks()); // 연결 상태 확인 콜백 등록
 
